@@ -1,0 +1,47 @@
+body{
+    height:100vh;
+}
+
+.icon{
+    color:gray;
+}
+
+.gray-background{
+    background-color: #F9F9F9;
+    height: 100%;
+}
+
+.btn-primary{
+    background-color: #FFE718;
+    border-top-color: #FFE718;
+    border-right-color: #FFE718;
+    border-bottom-color: #FFE718;
+    border-left-color: #FFE718;
+    border-radius: 0;
+    color: #000;
+}
+
+hr{
+    margin-right: 20rem;
+    background-color: #FFE718;
+    border-top: 3px solid rgba(0,0,0,.0);
+}
+
+.container-padding{
+    padding-left:10rem;
+    padding-right:10rem;
+}
+
+.row-left-right-padding{
+    padding-left: 10rem;
+    padding-right: 10rem;
+}
+
+.row-top-padding{
+    padding-top: 3rem;
+}
+
+.col-padding{
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
